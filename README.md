@@ -1,24 +1,33 @@
 <h1 align="center">Salom, men Azizbek 👋</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Python • Excel • Power BI</h3>
+<h3 align="center">Cybersecurity Student | Learning Data Analytics — SQL • Python • Excel • Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Data+bilan+ishlashni+o'rganyapman;SQL+%7C+Python+%7C+Power+BI;Har+kuni+yangi+narsa+o'rganish" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Cybersecurity+student;Data+Analytics+o'rganyapman;SQL+%7C+Python+%7C+Power+BI;Security+%2B+Data-driven+yondashuv" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 Men haqimda
 
-- 🔭 Hozirda **Data Analitika** yo'nalishida chuqurlashib o'rganyapman
-- 🌱 SQL, Python (Pandas), Excel va Power BI'ni amaliy loyihalar orqali mashq qilyapman
-- 🎯 Maqsad — **Data Analyst** sifatida ishga kirish
-- 📚 "Learning in public" — barcha jarayonimni shu profilda ochiq olib boraman
+- 🎓 Universitetda **Kiberxavfsizlik** yo'nalishida tahsil olyapman
+- 🔭 Hozirda qo'shimcha ravishda **Data Analitika**ni chuqur o'rganyapman (SQL, Python, Excel, Power BI)
+- 🎯 Maqsad — kiberxavfsizlik bilimini data tahlili ko'nikmalari bilan birlashtirib, log tahlili, anomaliya aniqlash va xavfsizlik analitikasi (Security Analytics) yo'nalishida rivojlanish
+- 🌱 Amaliy loyihalar orqali o'rganyapman va jarayonni shu profilda ochiq olib boraman ("learning in public")
 - 💬 Savol/hamkorlik uchun bemalol yozing
 
 ---
 
 ### 🛠️ Ko'nikmalar
 
+**Cybersecurity:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+**Data Analytics:**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,13 +41,13 @@
 
 ### 📌 Loyihalarim
 
-<!--
-Har bir loyihani tugatgach shu yerga qo'shib boring. Namuna format:
+**🔐 Cybersecurity:**
+<!-- - 🔹 **[Loyiha nomi](repo-havolasi)** — qisqa tavsif -->
+- 🔹 *(Tez orada shu yerda)*
 
-- 🔹 **[Loyiha nomi](repo-havolasi)** — qisqa tavsif (masalan: SQL yordamida savdo ma'lumotlarini tahlil qilish)
--->
-
-- 🔹 *(Tez orada birinchi loyiham shu yerda paydo bo'ladi)*
+**📊 Data Analytics:**
+<!-- - 🔹 **[Loyiha nomi](repo-havolasi)** — qisqa tavsif -->
+- 🔹 *(Tez orada shu yerda)*
 
 ---
 
@@ -54,7 +63,7 @@ Har bir loyihani tugatgach shu yerga qo'shib boring. Namuna format:
 ### 📫 Men bilan bog'lanish
 
 <p align="left">
-  <a href="https://t.me/pardaev_azizbek" target="_blank">
+  <a href="https://t.me/azizbek_lll" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:azizbekpardayev01@gmail.com" target="_blank">
