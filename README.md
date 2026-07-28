@@ -54,7 +54,7 @@ Har bir loyihani tugatgach shu yerga qo'shib boring. Namuna format:
 ### 📫 Men bilan bog'lanish
 
 <p align="left">
-  <a href="https://t.me/azizbek_lll" target="_blank">
+  <a href="https://t.me/pardaev_azizbek" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:azizbekpardayev01@gmail.com" target="_blank">
