@@ -1,5 +1,5 @@
 <h1 align="center">Salom, men Azizbek 👋</h1>
-<h3 align="center">Cybersecurity Student | Learning Data Analytics — SQL • Python • Excel • Power BI</h3>
+<h3 align="center">Cybersecurity Student | Learning Data Analytics — SQL • Python  • C++ • Excel • Power BI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Cybersecurity+student;Data+Analytics+o'rganyapman;SQL+%7C+Python+%7C+Power+BI;Security+%2B+Data-driven+yondashuv" alt="Typing SVG" />
